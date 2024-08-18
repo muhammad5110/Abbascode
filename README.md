@@ -1,1 +1,5 @@
-Food ordering application designed using flutter framework. This application implemented based on real life scenarios and UI elements are inspired from Foodpanda.
+# Launch Screen Assets
+
+You can customize the launch screen with your own desired assets by replacing the image files in this directory.
+
+You can also do it by opening your Flutter project's Xcode project with `open ios/Runner.xcworkspace`, selecting `Runner/Assets.xcassets` in the Project Navigator and dropping in the desired images.
